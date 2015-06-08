@@ -1,4 +1,7 @@
-name, type, latitude, longitude
+name,type,latitude,longitude
 BU Bridge,bridge,42.353,-71.1106
 Prudential Tower,skyscraper,42.347,-71.082
 That place where we measured 109in of snow,airport,42.3605,-71.006638
+Woods Hole Research Center,maptime location,41.549,-70.643
+Cape Cod Commercial Fishermens Alliance,maptime location,41.683,-69.992
+Sturgis Library,maptime location,41.703329,-70.3072
