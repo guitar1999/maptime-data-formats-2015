@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "BU Bridge", "type": "bridge", "latitude": "42.353", "longitude": "-71.1106" }, "geometry": null },
+{ "type": "Feature", "properties": { "name": "Prudential Tower", "type": "skyscraper", "latitude": "42.347", "longitude": "-71.082" }, "geometry": null },
+{ "type": "Feature", "properties": { "name": "That place where we measured 109in of snow", "type": "airport", "latitude": "42.3605", "longitude": "-71.006638" }, "geometry": null },
+{ "type": "Feature", "properties": { "name": "Woods Hole Research Center", "type": "maptime location", "latitude": "41.549", "longitude": "-70.643" }, "geometry": null },
+{ "type": "Feature", "properties": { "name": "Cape Cod Commercial Fishermens Alliance", "type": "maptime location", "latitude": "41.683", "longitude": "-69.992" }, "geometry": null },
+{ "type": "Feature", "properties": { "name": "Sturgis Library", "type": "maptime location", "latitude": "41.703329", "longitude": "-70.3072" }, "geometry": null }
+]
+}
